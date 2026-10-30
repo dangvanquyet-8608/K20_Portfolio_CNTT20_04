@@ -1,1 +1,1 @@
-chưa phát hiênh lỗi
+chưa phát hiện lỗi
